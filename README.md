@@ -1,8 +1,8 @@
-# pkrengel
+# pkrengel's Repository
 Repository of random things authored by user pkrengel.
 
-# /bigquery
+## /bigquery
 A sample of BigQuery code.
 
-# /python
+## /python
 A sample of Python code.
